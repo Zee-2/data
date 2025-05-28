@@ -1,5 +1,3 @@
-# atlasvpn.com
-
 atlasvpn.com
 help.atlasvpn.com
 get.atlasvpn.com
@@ -38,9 +36,6 @@ repo.atlasvpn.com
 url3307.atlasvpn.com
 hermes.atlasvpn.com
 shop.atlasvpn.com
-
-# betternet.co
-
 betternet.co
 support.betternet.co
 stage2.payment.betternet.co
@@ -86,9 +81,6 @@ stage.payment.betternet.co
 arcsoft-showbiz.en.betternet.co
 mailing.betternet.co
 stage-get.betternet.co
-
-# cyberghostvpn.com
-
 cyberghostvpn.com
 support.cyberghostvpn.com
 ho-app.cyberghostvpn.com
@@ -306,9 +298,6 @@ mail-processor.beta.ms.cyberghostvpn.com
 dev-cms.cyberghostvpn.com
 dev-privacyhub.cyberghostvpn.com
 links.cyberghostvpn.com
-
-# expressvpn.com
-
 expressvpn.com
 go.expressvpn.com
 blog.expressvpn.com
@@ -351,9 +340,6 @@ api-v2-jwks.integration.expressvpn.com
 billing.api.expressvpn.com
 be-okta.expressvpn.com
 origin-wp.expressvpn.com
-
-# freevpnplanet.com
-
 freevpnplanet.com
 affiliate.freevpnplanet.com
 go.freevpnplanet.com
@@ -389,9 +375,6 @@ eu-north-1.freevpnplanet.com
 rtb-apac.freevpnplanet.com
 content.freevpnplanet.com
 rtb-uswest.freevpnplanet.com
-
-# hide.me
-
 hide.me
 community.hide.me
 affiliates.hide.me
@@ -917,9 +900,6 @@ egypt.hide.me
 email.hide.me
 api.hide.me
 singapore-2.hide.me
-
-# hideservers.net
-
 hideservers.net
 amsterdam-3-2.hideservers.net
 united-kingdom.hideservers.net
@@ -1890,9 +1870,6 @@ seattle-v4.hideservers.net
 jakarta.hideservers.net
 free-us.hideservers.net
 newzealand.hideservers.net
-
-# hola.org
-
 hola.org
 cdn4.hola.org
 login.hola.org
@@ -3894,9 +3871,6 @@ zagent1365.vpn.hola.org
 zagent1960.vpn.hola.org
 zagent201.hola.org
 zagent204.vpn.hola.org
-
-# hotspotshield.com
-
 hotspotshield.com
 support.hotspotshield.com
 m.hotspotshield.com
@@ -3965,9 +3939,6 @@ do.hotspotshield.com
 wptest.hotspotshield.com
 order.origin.hotspotshield.com
 qa-www.hotspotshield.com
-
-# ipvanish.com
-
 ipvanish.com
 support.ipvanish.com
 blog.ipvanish.com
@@ -5969,9 +5940,6 @@ bru-c04.vpn.ipvanish.com
 chi-b31.ipvanish.com
 chi-b73.vpn.ipvanish.com
 dal-a28.ipvanish.com
-
-# ivpn.net
-
 ivpn.net
 us-ca.wg.ivpn.net
 fr1.gw.ivpn.net
@@ -6471,9 +6439,6 @@ us-az2.gw.ivpn.net
 us-il.wg.ivpn.net
 nl5.wg.ivpn.net
 rs.wg.ivpn.net
-
-# mullvad.net
-
 mullvad.net
 doh.mullvad.net
 leta.mullvad.net
@@ -8475,10 +8440,6 @@ se25x.mullvad.net
 us-nyc-wg-402.relays.mullvad.net
 us102-wireguard.mullvad.net
 us140-wg.socks5.mullvad.net
-
-# myspace.com
-# Contains Dirty content like Music Songs, Girls and Sexual
-
 myspace.com
 profile.myspace.com
 viewmorepics.myspace.com
@@ -9124,9 +9085,6 @@ dns2.myspace.com
 l00012.myspace.com
 unauthorized.myspace.com
 qb2.libsyn.comwww.myspace.com
-
-# nordvpn.com
-
 nordvpn.com
 support.nordvpn.com
 visit.nordvpn.com
@@ -11128,10 +11086,6 @@ vm-fr193.prod.nordvpn.com
 vm-ge5.prod.nordvpn.com
 vm-gr11.prod.nordvpn.com
 vm-it67.prod.nordvpn.com
-
-# omegle.com
-# Live Video Chat/Call App
-
 omegle.com
 lady.omegle.com
 logs.omegle.com
@@ -11202,9 +11156,6 @@ apitest.omegle.fun
 www.omegle.fun
 api-web.omegle.fun
 mail.omegle.fun
-
-# privadovpn.com
-
 privadovpn.com
 blog.privadovpn.com
 signup.privadovpn.com
@@ -11251,9 +11202,6 @@ code.privadovpn.com
 nodata.dns.privadovpn.com
 vdf.privadovpn.com
 apm.privadovpn.com
-
-# privateinternetaccess.com
-
 privateinternetaccess.com
 helpdesk.privateinternetaccess.com
 jpn.privateinternetaccess.com
@@ -11591,9 +11539,6 @@ www.support.privateinternetaccess.com
 au-sydney.http-proxy.privateinternetaccess.com
 spain.privateinternetaccess.com
 web-slave.privateinternetaccess.com
-
-# purevpn.com
-
 purevpn.com
 support.purevpn.com
 billing.purevpn.com
@@ -11768,10 +11713,6 @@ accountsoem.purevpn.com
 accountscircuit.purevpn.com
 partnersapi.purevpn.com
 purevpn-stripe-webhooks.purevpn.com
-
-# speedify.com
-# A kind of VPN
-
 speedify.com
 msupport.speedify.com
 support.speedify.com
@@ -11809,9 +11750,6 @@ my.speedify.com
 secure.speedify.com
 appscreens.speedify.com
 geoip.speedify.com
-
-# strongvpn.com
-
 strongvpn.com
 support.strongvpn.com
 blog.strongvpn.com
@@ -11887,10 +11825,6 @@ email.strongvpn.com
 tickets.strongvpn.com
 proxy.strongvpn.com
 wg-origin.strongvpn.com
-
-# surfshark.com
-# VPN
-
 surfshark.com
 support.surfshark.com
 order.surfshark.com
@@ -13892,10 +13826,6 @@ uk-lon-v257.prod.surfshark.com
 fr-par-v129.prod.surfshark.com
 ca-tor-v041.prod.surfshark.com
 ca-van-v057.prod.surfshark.com
-
-# tagged.com
-# Dating, Chat, (VPN), Social App
-
 tagged.com
 support.tagged.com
 secure.tagged.com
@@ -13990,9 +13920,6 @@ vpn.tagged.com
 tagtest3.tagged.com
 gmail.tagged.com
 casper.tagged.com
-
-# tinder.com
-
 tinder.com
 policies.tinder.com
 help.tinder.com
@@ -14474,10 +14401,6 @@ api-africa.gotinder.com
 images-ssl-jpn.gotinder.com
 purchaseportal.svc.b.ue1az.gotinder.com
 purchase-portal.staging1.gotinder.com
-
-# tunnelbear.com
-# VPN
-
 tunnelbear.com
 help.tunnelbear.com
 click.tunnelbear.com
@@ -14562,9 +14485,6 @@ mac.tunnelbear.com
 staging2-api-payment.tunnelbear.com
 stream.tunnelbear.com
 reverse-slowloris.tunnelbear.com
-
-# urban-vpn.com
-
 urban-vpn.com
 p-id2.urban-vpn.com
 p-ar5.urban-vpn.com
@@ -15169,9 +15089,6 @@ p-ca12.urban-vpn.com
 p-in5.urban-vpn.com
 p-ie3.urban-vpn.com
 p-sk2.urban-vpn.com
-
-# windscribe.com
-
 windscribe.com
 fra.windscribe.com
 blog.windscribe.com
@@ -17173,12 +17090,6 @@ my-003.windscribe.com
 us-central-010.windscribe.com
 cgk-416-wg.windscribe.com
 yul-316-ike.windscribe.com
-
-
-#--------------------------[ VPNs Blocklist Ended ]------------------------
-
-# VishaVideo App
-
 4img.hitv.com
 0img.hitv.com
 3img.hitv.com
@@ -17207,4 +17118,3 @@ ire.dsc.shalltry.com
 ire-oneid.shalltry.com
 gslb.shalltry.com
 af.shalltry.com
-
